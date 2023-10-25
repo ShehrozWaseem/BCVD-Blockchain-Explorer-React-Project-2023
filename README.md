@@ -1,6 +1,9 @@
  ### Individual Project - shehroz waseem - 1010501973
  ### OUTPUT Demo
-[![Watch the video]](Project Demo.mp4)
+
+
+https://github.com/ShehrozWaseem/BCVD-Blockchain-Explorer-React-Project-2023/assets/51531489/bdef95af-48b8-456e-9808-f6df4c01a814
+
 
 ### Project Info 
 - The project uses context api to manage balance and transaction history global state
