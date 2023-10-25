@@ -1,6 +1,6 @@
  ### Individual Project - shehroz waseem - 1010501973
  ### OUTPUT Demo
-<video src="Project%20Demo.mp4" controls title="Title"></video>
+[![Watch the video]](Project Demo.mp4)
 
 ### Project Info 
 - The project uses context api to manage balance and transaction history global state
